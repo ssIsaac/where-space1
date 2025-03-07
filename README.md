@@ -7,7 +7,7 @@ Additionally, the app facilitates peer collaboration by enabling users to organi
 By combining location-based discovery with a social approach to studying, this web app enhances accessibility to study spaces while encouraging academic collaboration in London. 
 
 ## Members
-Karthik Ambu
-Larry Zeng
-Owen Wang
-Isaac Lee
+- Karthik Ambu
+- Larry Zeng
+- Owen Wang
+- Isaac Lee
