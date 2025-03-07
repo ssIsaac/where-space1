@@ -1,4 +1,4 @@
-## A productivity web app 
+## A productivity themed web app 
 
 London’s growing student and professional population faces a persistent challenge: the scarcity of suitable study spaces. 
 To address this issue, we developed a web application that allows users to discover, review, and share study spaces across the city. 
